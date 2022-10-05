@@ -3,7 +3,7 @@ function tocaSom (idElementoAudio){
 
 }
 
-
+// selecionar todos os elementos com a class .tecla
 const listaDeTeclas = document.querySelectorAll('.tecla');
 
 // referencia variavel
